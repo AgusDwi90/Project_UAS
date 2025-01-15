@@ -5,7 +5,8 @@ Dengan Anggota :
 - 220040205-I DEWA GEDE KRISNA ARISADEWA
 - 220040256-NI KETUT RAI NUKARIMASIH
 - 240040040-I MADE AGUS DWI MAHA PUTRA
-- Topik yang diberikan adalah Musik
+
+Topik yang diberikan adalah Musik
 
 ## Fitur
 - Aplikasi dapat menampilkan daftar data yang diperoleh melalui public API yang disediakan
@@ -13,6 +14,6 @@ Dengan Anggota :
 - Aplikasi menyimpan data favorit di local storage (SQLite)
 
 ## Tampilan
-![All Music](https://github.com/user-attachments/assets/7d708027-c13b-4272-a5fc-42e2346af015)
-![Favorites](https://github.com/user-attachments/assets/201eb4c7-45d8-40f0-8324-74dd925a8156)
-![Detail](https://github.com/user-attachments/assets/921e9707-166b-46c0-8746-4c136a77f4cc)
+![All Music](https://github.com/user-attachments/assets/36f351d2-9b53-4fe5-ad6f-3298a369be52)
+![Favorites](https://github.com/user-attachments/assets/bd3cb986-b495-45b5-8cff-00ef33bfc4b1)
+![Detail](https://github.com/user-attachments/assets/452031a3-febb-4906-a255-5b2878927573)
